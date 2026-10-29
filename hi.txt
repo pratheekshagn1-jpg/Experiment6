@@ -1,2 +1,4 @@
 Git Pull Request Experiment
 This repository is used to learn collaborative development.
+This feature demonstrates the Pull request workflow.
+This feature demonstrates Experiment6:Pull Requests and Collaborative Review.
